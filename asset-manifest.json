@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Swetha-art-source/webgame/static/css/main.60af0e83.css",
+    "main.js": "/Swetha-art-source/webgame/static/js/main.f983725c.js",
+    "index.html": "/Swetha-art-source/webgame/index.html",
+    "main.60af0e83.css.map": "/Swetha-art-source/webgame/static/css/main.60af0e83.css.map",
+    "main.f983725c.js.map": "/Swetha-art-source/webgame/static/js/main.f983725c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60af0e83.css",
+    "static/js/main.f983725c.js"
+  ]
+}
