@@ -1,0 +1,61 @@
+/* Write your code here. */
+.PlayImage {
+    padding: 15px;
+    height: 60vh;
+    width: auto;
+  }
+.playImg-Container {
+  margin: 5px;
+  padding: 10px;
+}
+.scoreCard-Det {
+  margin: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.score-text {
+  font-size: large;
+  font-weight: bold;
+}
+h1 {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.score-number {
+  font-weight: bold;
+  font-size: larger;
+  color: #6a59ff;
+}
+.play-again {
+  color: #3d3d3d;
+  background-color: #ffce27;
+  padding: 5px 10px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 5px;
+}
+@media (max-width: 767px) {
+  .PlayImage {
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+  }
+  .score-text {
+    font-size: medium;
+    font-weight: bold;
+  }
+  h1 {
+    font-size: large;
+    font-weight: bolder;
+  }
+  .score-number {
+    font-weight: bold;
+    font-size: medium;
+    color: #6a59ff;
+  }
+}
